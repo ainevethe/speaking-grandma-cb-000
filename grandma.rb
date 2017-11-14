@@ -15,7 +15,7 @@
 
 def speak_to_grandma(phrase)
 
-  winner = "I LOVE YOU GRANDMA"
+  winner = "I LOVE YOU GRANDMA!"
 
   if phrase == winner
     puts "I LOVE YOU TOO PUMPKIN!"
