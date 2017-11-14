@@ -19,7 +19,7 @@ def speak_to_grandma(phrase)
     puts "I LOVE YOU TOO PUMPKIN!"
   elsif phrase != phrase.uppercase
     puts "HUH? SPEAK UP, SONNY!"
-  else 
+  else
     puts "NO, NOT SINCE 1938!"
   end
 
